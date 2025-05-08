@@ -1,0 +1,11 @@
+# Module 14: Deploying AI Models & MLOps Fundamentals
+# This module is primarily conceptual.
+# Tools often used in MLOps include:
+# - Containerization: Docker
+# - Orchestration: Kubernetes, Docker Swarm
+# - Workflow Automation: Apache Airflow, Kubeflow Pipelines, Argo Workflows
+# - Experiment Tracking & Model Registry: MLflow, Weights & Biases, DVC
+# - CI/CD: Jenkins, GitLab CI/CD, GitHub Actions
+# - Monitoring: Prometheus, Grafana, specialized ML monitoring tools
+# - Cloud Platforms: AWS SageMaker, Google Vertex AI, Azure Machine Learning
+# Specific Python libraries depend on the chosen tools and model serving frameworks (e.g., Flask, FastAPI, TensorFlow Serving, TorchServe). 

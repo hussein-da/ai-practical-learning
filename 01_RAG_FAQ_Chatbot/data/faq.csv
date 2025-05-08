@@ -1,0 +1,11 @@
+Question,Answer
+"What are your business hours?","Our business hours are Monday to Friday, 9 AM to 6 PM."
+"What is your return policy?","You can return any item within 30 days of purchase for a full refund, provided it is in its original condition."
+"Do you offer international shipping?","Yes, we offer international shipping to most countries. Shipping costs and times vary depending on the destination."
+"How can I track my order?","Once your order is shipped, you will receive a tracking number via email. You can use this number on our website or the carrier's website to track your package."
+"What payment methods do you accept?","We accept Visa, MasterCard, American Express, PayPal, and Apple Pay."
+"How do I reset my password?","You can reset your password by clicking the 'Forgot Password' link on the login page and following the instructions."
+"Can I change my shipping address after placing an order?","If your order has not yet been shipped, you may be able to change the shipping address. Please contact our customer support team as soon as possible."
+"What is RAG?","Retrieval-Augmented Generation (RAG) is an AI framework for improving the quality of LLM responses by grounding the model on external sources of knowledge to supplement the LLM's internal representation of information."
+"Why use LangChain?","LangChain is a framework designed to simplify the creation of applications using large language models. It provides a standard interface for chains, lots of integrations with other tools, and end-to-end chains for common applications."
+"What are vector embeddings?","Vector embeddings are numerical representations of text (or other data types) in a high-dimensional space. They capture the semantic meaning of the text, such that similar pieces of text will have similar vector representations." 

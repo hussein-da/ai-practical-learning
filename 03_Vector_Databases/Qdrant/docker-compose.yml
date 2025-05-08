@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant_vector_db
+    ports:
+      - "6333:6333"  # REST API
+      - "6334:6334"  # gRPC API
+    volumes:
+      - ./qdrant_storage:/qdrant/storage  # Persists data on host machine
+    # For development, you might want to disable API key:
+    # environment:
+    #   QDRANT__SERVICE__ENABLE_AUTH: "false"
+    # Or set an API key if needed for your setup:
+    # environment:
+    #   QDRANT__SERVICE__API_KEY: "your-secret-api-key" 

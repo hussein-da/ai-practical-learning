@@ -1,0 +1,7 @@
+spacy
+transformers
+torch # Or tensorflow
+pandas
+python-dotenv
+# Optional: spacy[transformers] for using transformers within spacy
+# Remember to download a spacy model: python -m spacy download en_core_web_sm 

@@ -1,0 +1,5 @@
+chromadb
+sentence-transformers
+openai # For OpenAIEmbeddingFunction
+python-dotenv
+pandas 

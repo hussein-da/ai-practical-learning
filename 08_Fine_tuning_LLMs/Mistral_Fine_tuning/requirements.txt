@@ -1,0 +1,9 @@
+transformers>=4.38.0 # Use a recent version
+peft>=0.9.0 # For LoRA/QLoRA
+bitsandbytes>=0.41.3 # For 4-bit quantization
+accelerate>=0.27.0 # For training utilities
+datasets>=2.14.0 # For loading data
+torch>=2.1.0 # PyTorch
+# Optional, for monitoring
+# tensorboard
+# wandb 

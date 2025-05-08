@@ -1,0 +1,7 @@
+# Use faiss-gpu if you have a compatible NVIDIA GPU and CUDA installed
+faiss-cpu
+numpy # FAISS often requires numpy arrays
+sentence-transformers
+openai
+python-dotenv
+pandas 

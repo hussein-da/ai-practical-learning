@@ -1,0 +1,6 @@
+pandas>=1.0.0
+scikit-learn>=0.24
+numpy>=1.18.0
+tldextract>=3.0.0 # For more advanced URL parsing (optional, but good to list)
+# python-whois # For WHOIS lookups (host-based feature, conceptual)
+# dnspython # For DNS lookups (host-based feature, conceptual) 

@@ -1,0 +1,13 @@
+id,text,category,author,year
+201,"The sun rises in the east and sets in the west.","nature", "Observer Daily", 2023
+202,"Machine learning models require vast amounts of data for training.","technology", "Tech Trends", 2022
+203,"Chocolate chip cookies are a classic dessert favorite.","food", "Bakers Weekly", 2021
+204,"Renewable energy sources are key to a sustainable future.","environment", "Green Planet News", 2023
+205,"Understanding data structures and algorithms is vital for programmers.","education", "Code Masters", 2020
+206,"The Industrial Revolution brought significant societal changes.","history", "Time Travelers Log", 2019
+207,"Black holes are regions of spacetime where gravity is extremely strong.","science", "Astro Journal", 2022
+208,"Regular exercise and a balanced diet contribute to good health.","health", "LiveWell Magazine", 2023
+209,"Saving and investing wisely are pillars of financial independence.","finance", "WealthBuilders Inc.", 2021
+210,"Self-driving cars use a combination of sensors and AI to navigate.","technology", "Future Motors", 2024
+211,"Protecting biodiversity is essential for ecosystem stability.","environment", "Nature Conservancy", 2022
+212,"The best way to learn is by doing and experimenting.","education", "Practical Learner", 2020 

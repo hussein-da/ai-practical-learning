@@ -1,0 +1,4 @@
+streamlit
+openai
+python-dotenv
+langchain # For text splitting and potentially simplified LLM interaction 

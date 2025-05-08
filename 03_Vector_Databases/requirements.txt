@@ -1,0 +1,3 @@
+sentence-transformers
+python-dotenv
+numpy # Often a core dependency for vector operations 

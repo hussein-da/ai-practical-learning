@@ -1,0 +1,2 @@
+# Top-level requirements for Module 11: AI in Cybersecurity
+# Specific dependencies are in sub-module requirements.txt files. 

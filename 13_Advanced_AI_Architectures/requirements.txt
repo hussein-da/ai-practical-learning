@@ -1,0 +1,5 @@
+# Module 13: Advanced AI Architectures
+# This module is conceptual and does not require specific Python packages.
+# Building and training Transformers, GANs, etc., typically requires deep learning frameworks
+# like TensorFlow/Keras (tensorflow) or PyTorch (torch), along with other libraries
+# such as transformers (from Hugging Face), numpy, matplotlib, etc., depending on the task. 

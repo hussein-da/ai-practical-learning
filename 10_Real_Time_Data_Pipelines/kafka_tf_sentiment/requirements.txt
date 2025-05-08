@@ -1,0 +1,5 @@
+kafka-python==2.0.2
+nltk==3.8.1
+# Other:
+python-dotenv
+# Add other specific dependencies for this sub-module if any 

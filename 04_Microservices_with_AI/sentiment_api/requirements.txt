@@ -1,0 +1,9 @@
+Flask
+transformers
+# Specify either torch or tensorflow depending on your backend preference
+# PyTorch is often recommended with Hugging Face
+torch
+# tensorflow # Uncomment if you prefer TensorFlow
+python-dotenv
+# Production WSGI Server (alternative to Flask's built-in development server)
+waitress 

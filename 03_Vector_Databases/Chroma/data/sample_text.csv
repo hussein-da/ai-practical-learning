@@ -1,0 +1,13 @@
+id,text,category,author,year,status
+301,"The mystery of the missing manuscript captivated the village.","fiction", "Story Teller", 2020, "published"
+302,"Innovations in biotechnology are paving the way for new medicines.","science", "Bio Future", 2023, "published"
+303,"A guide to baking the perfect sourdough bread at home.","food", "Home Baker", 2021, "draft"
+304,"The impact of social media on modern political discourse.","society", "Researcher X", 2022, "published"
+305,"Learning to play a musical instrument enhances cognitive abilities.","education", "Music Lover", 2019, "archived"
+306,"Ancient Egyptian hieroglyphs offer a window into a lost world.","history", "Egyptologist Today", 2020, "published"
+307,"The search for extraterrestrial life continues to inspire scientists.","science", "Cosmic Searchers", 2024, "draft"
+308,"Understanding personal finance is key to long-term security.","finance", "Money Wise", 2021, "published"
+309,"The role of artificial intelligence in creative arts.","technology", "Art & AI Weekly", 2023, "published"
+310,"How to grow organic vegetables in a small urban garden.","gardening", "Urban Gardener", 2022, "published"
+311,"Philosophical debates on the nature of consciousness.","philosophy", "Think Tank", 2020, "archived"
+312,"The rise and fall of the dot-com bubble: lessons learned.","history", "Economic Review", 2018, "published" 

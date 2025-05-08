@@ -1,0 +1,2 @@
+# Module 12: AI Ethics and Responsible AI
+# This module is conceptual and does not require specific Python packages. 

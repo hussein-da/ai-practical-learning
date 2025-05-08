@@ -1,0 +1,2 @@
+pinecone-client
+# sentence-transformers and python-dotenv should be in the parent requirements 
